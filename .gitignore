@@ -39,3 +39,5 @@ poetry.lock
 
 # requirements (если генеришь временно)
 requirements-dev.txt
+
+echo .coverage
